@@ -1,3 +1,5 @@
+//BUILDING OWN STRUCTURAL DIRECTIVE( OPPOSITE OF NGIF ELSE)
+
 import { Directive, Input, TemplateRef, ViewContainerRef } from '@angular/core';
 
 @Directive({
